@@ -6,7 +6,6 @@ public class PersonBuilder {
   private String surname;
   private int age;
   private String address;
-  private PersonBuilder instance;
 
   public PersonBuilder() {
     this.address = "";
